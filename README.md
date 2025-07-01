@@ -168,4 +168,5 @@ You can ENABLE them if you like them.
 # Included Runelite and Runescape setting changes
 
 - Default GPU addon: Enabled by default now
-- Default Prayer addon: Configured to show orb ticks and prayer under your healthbar 
+- Default Prayer addon: Configured to show orb ticks and prayer under your healthbar
+- Ground items: Disabled (replaced by Loot Filters addon)
