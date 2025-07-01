@@ -24,16 +24,19 @@ For new player or returning players to get up to speed on the creations of the g
 
 # Included active plugins:
 
-## [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts)
+### [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts) ![wiki-search-shortcuts_nUVDyiU_OKzKXi4HDMDmUYaZ7A1h7ODkNtgc-p0_IEE](https://github.com/user-attachments/assets/334e21d2-1690-49fa-938c-3b76ced5fef4)
+
 
 - Use Ctrl+F to search wiki anywhere in-game
 
-## [Quest helper (minimal help mode)](https://runelite.net/plugin-hub/show/quest-helper)
+### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
+
 
 - Assists in quest completion
 - Configured with the minimal help mode (only helpful tips) 
 
-## [Shortest path](https://runelite.net/plugin-hub/show/shortest-path)
+### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
+
 
 - A GPS-like plugin that shows shortest path
 - Including teleports you have
@@ -41,25 +44,42 @@ For new player or returning players to get up to speed on the creations of the g
 - Includes fairy rings
 - etc.
 
-## [Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup)
+### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
+
+
+- Ability to search your bank while on the go
+
+### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
+
 
 - See monster loot drops in-game
 - Right-click monster > Click "Loot lookup"
 
-## [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator)
+### [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator) ![max-hit-calculator_8vOyAyFs2UICQ3wIgiesyok3WKG4UEp78Woxrcb-imY](https://github.com/user-attachments/assets/41b3ba4b-37c4-44f5-b2a6-1f59be9dc4e5)
+
 
 - Shows maxhits gained on weapons, spells, potions
 
 ![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
 
+### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
+
+
+
+
+
+- Shows a bar for each skill in the skill menu
 
 
 
 # Included INACTIVE plugins:
 
-These plugins get installed, but disabled. Enable them if you like them.
+These plugins are INSTALLED but NOT enabled. 
 
-## [Visual Metronome](https://runelite.net/plugin-hub/show/visual-metronome) (disabled by default)
+You can enable them if you like them.
 
-- Enabled this if you want to see the game ticks visually
+### [Visual Metronome](https://runelite.net/plugin-hub/show/visual-metronome) (disabled by default) ![visual-metronome_T8-cVLsoIaFemkdkDIIhSqzrQbaI39PpQucoUVX0xUs](https://github.com/user-attachments/assets/c4b74382-fd1d-4fdd-885d-8681e8fd64b5)
+
+
+- Enable this if you want to see the game ticks visually
 - Configured to flash the tile underneath your character with a 4 tick cycle
