@@ -1,6 +1,14 @@
 # Runeplus
 A Runelite profile that is full of high quality plugins that "should be default in Runelite"
 
+### Total plugins added:
+
+- Installed, and enabled: 18
+- Installed, but disabled: 4
+- Reconfigured defaults: 1
+
+See below all added plugins.
+
 # How to install
 1. Install the official Runelite client
 2. Go top right at the wrench icon
@@ -127,15 +135,13 @@ Enjoy!
 
 - Tempoross, Guardians of the Rift, Rogues Den, Giant's Foundry, Mixology, Mahogany Homes etc.
 
-
-
 ---
 
 # Included INACTIVE plugins:
 
 These plugins are INSTALLED but NOT enabled. 
 
-You can enable them if you like them.
+You can ENABLE them if you like them.
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
@@ -152,6 +158,10 @@ You can enable them if you like them.
 
 - Enable this if you want to see the game ticks visually
 - Configured to flash the tile underneath your character with a 4 tick cycle
+
+### [Tick flick histogram](https://runelite.net/plugin-hub/show/histogram) (disabled by default) 
+
+- Enable this if you want to practice prayer flicking, it is the best way to see what you are doing wrong
 
 ---
 
