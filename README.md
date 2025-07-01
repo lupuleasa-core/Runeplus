@@ -56,7 +56,7 @@ Enjoy!
 
 ### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
 
-- Hihglights items based on their value
+- Highlights items based on their value
 - Better than "Ground Items" plugin
 
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
