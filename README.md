@@ -6,7 +6,9 @@ A Runelite profile that is full of high quality plugins that "should be default 
 2. Import it in Runelite profiles
 
 Feel free to install and test it in Runelite profiles.
-Even if you are a new player or a veteram, it is easy to try.
+
+For new player or returning players to get up to speed on the creations of the great osrs plugin community. 
+
 
 # Runeplus philosophy
 1. High quality - Only plugins that "should be default in Runelite" based on votes and discussion
@@ -26,14 +28,32 @@ Even if you are a new player or a veteram, it is easy to try.
 
 - Use Ctrl+F to search wiki anywhere in-game
 
-## [Quest helper (minimal help)](https://runelite.net/plugin-hub/show/quest-helper)
+## [Quest helper (minimal help mode)](https://runelite.net/plugin-hub/show/quest-helper)
 
 - Assists in quest completion
-- Configured by us with the minimal help mode (helpful tips) 
+- Configured with the minimal help mode (only helpful tips) 
 
 ## [Shortest path](https://runelite.net/plugin-hub/show/shortest-path)
 
-- A GPS-like plugin that shows shortest path, including teleports you have and agility shortcuts for traveling the game
+- A GPS-like plugin that shows shortest path
+- Including teleports you have
+- Includes agility shortcuts you can use
+- Includes fairy rings
+- etc.
+
+## [Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup)
+
+- See monster loot drops in-game
+- Right-click monster > Click "Loot lookup"
+
+## [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator)
+
+- Shows maxhits gained on weapons, spells, potions
+
+![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
+
+
+
 
 # Included INACTIVE plugins:
 
