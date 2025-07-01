@@ -2,12 +2,21 @@
 A Runelite profile that is full of high quality plugins that "should be default in Runelite"
 
 # How to install
-1. Grab the profile
-2. Import it in Runelite profiles
+1. Install the official Runelite client
+2. Go top right at the wrench icon
+3. Go to the middle tab called "Profiles"
+4. Create new profile
+5. Grab the profile from this page
+6. Click "Import" on that profile
+7. Click the arrow to the right to enable that profile
 
-Feel free to install and test it in Runelite profiles.
 
-For new player or returning players to get up to speed on the creations of the great osrs plugin community. 
+
+Hopefully it saves a lot of time and establishes a solid plugin foundation for new and returning players.
+
+*All credits go to the Runelite team, Jagex and the great osrs plugin community!*
+
+Enjoy!
 
 
 # Runeplus philosophy
@@ -57,18 +66,17 @@ For new player or returning players to get up to speed on the creations of the g
 
 ### [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator) ![max-hit-calculator_8vOyAyFs2UICQ3wIgiesyok3WKG4UEp78Woxrcb-imY](https://github.com/user-attachments/assets/41b3ba4b-37c4-44f5-b2a6-1f59be9dc4e5)
 
-
-- Shows maxhits gained on weapons, spells, potions
-
 ![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
+
+- Shows maxhits gained on weapons, spells, and potions
 
 ### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
 
-
-
-
-
 - Shows a bar for each skill in the skill menu
+
+### [Green Thumb](https://runelite.net/plugin-hub/show/green-thumb)
+
+- Shows info tooltip on farmable seeds and herbs
 
 
 
