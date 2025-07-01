@@ -18,6 +18,7 @@ Hopefully it saves a lot of time and establishes a solid plugin foundation for n
 
 Enjoy!
 
+---
 
 # Runeplus philosophy
 1. High quality - Only plugins that "should be default in Runelite" based on votes and discussion
@@ -31,6 +32,8 @@ Enjoy!
 9. Community driven - People can contribute to Runeplus and suggest additions, removals and tweaks
 10. Always up to date - The best up to date addons included
 
+---
+
 # Included active plugins:
 
 ### [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts) ![wiki-search-shortcuts_nUVDyiU_OKzKXi4HDMDmUYaZ7A1h7ODkNtgc-p0_IEE](https://github.com/user-attachments/assets/334e21d2-1690-49fa-938c-3b76ced5fef4)
@@ -40,12 +43,10 @@ Enjoy!
 
 ### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
 
-
 - Assists in quest completion
 - Configured with the minimal help mode (only helpful tips) 
 
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
-
 
 - A GPS-like plugin that shows shortest path
 - Including teleports you have
@@ -53,22 +54,62 @@ Enjoy!
 - Includes fairy rings
 - etc.
 
-### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
+### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
 
+- Hihglights items based on their value
+- Better than "Ground Items" plugin
+
+### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
+
+- Allows quickly jumping to another world via a hotkey
+- Random World Ctrl+1
+- Previous World Ctrl+2
+- Next World Ctrl+3
+
+### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
+
+- Hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
+
+### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
 
 - Ability to search your bank while on the go
 
-### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
+### [Banked Experience](https://runelite.net/plugin-hub/show/banked-experience) ![banked-experience_pGq7p6etRUhi86tWjZXB5ydrtYP5UBeVGE-BHe2QbuQ](https://github.com/user-attachments/assets/2d913719-2525-4bcb-add3-3422dcec5641)
 
+- Shows how much Experience is sitting in your bank in ready to be processed materials
+
+### [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts)
+
+![example](https://github.com/user-attachments/assets/2a9e4d39-b081-43b0-8374-ec457305fda3)
+
+- Allows organizing special layouts in your bank
+
+### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
 
 - See monster loot drops in-game
 - Right-click monster > Click "Loot lookup"
 
-### [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator) ![max-hit-calculator_8vOyAyFs2UICQ3wIgiesyok3WKG4UEp78Woxrcb-imY](https://github.com/user-attachments/assets/41b3ba4b-37c4-44f5-b2a6-1f59be9dc4e5)
+### [Monster Menu HP](https://runelite.net/plugin-hub/show/menuhp) ![menuhp_PeOLSG25QGpo1JSXg4Udq3vAEFSaZmjjQ0T4aP_DP6Q](https://github.com/user-attachments/assets/1fb98d7b-5eed-4daa-b496-9add80dfdb12)
+
+![image](https://github.com/user-attachments/assets/c3346f59-769d-4183-a11a-6a19678d4966)
+
+- Shows monster current hp
+
+### [Monster max hit](https://runelite.net/plugin-hub/show/npc-max-hit) ![npc-max-hit_yhkWqYadAAZ8L2k1L073Qssu33vrw7Iapy7jYxbmRHc](https://github.com/user-attachments/assets/b8f9db64-997b-4356-8f3c-7e9962cd4a49)
+
+![image](https://github.com/user-attachments/assets/146b38eb-ef55-4ac0-be3c-bbe01f2ac80c)
+
+- Shows npc max hits
+
+### [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator) ![image](https://github.com/user-attachments/assets/a35cac06-1dde-4bb5-a7dd-7816cc664bfa)
 
 ![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
 
 - Shows maxhits gained on weapons, spells, and potions
+
+### [XP Drop Extended](https://runelite.net/plugin-hub/show/xp-drop-extended) ![output-onlinepngtools](https://github.com/user-attachments/assets/488c9597-9f8a-4fcc-855e-a6390d098b64)
+
+- Shows XP drops over objects
 
 ### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
 
@@ -78,7 +119,17 @@ Enjoy!
 
 - Shows info tooltip on farmable seeds and herbs
 
+### [Kitten Tracker](https://runelite.net/plugin-hub/show/kitten-tracker)
 
+- Shows you timers for your kitten's hunger and needs
+
+### [Many, many minigame helper plugins](https://runelite.net/plugin-hub)
+
+- Tempoross, Guardians of the Rift, Rogues Den, Giant's Foundry, Mixology, Mahogany Homes etc.
+
+
+
+---
 
 # Included INACTIVE plugins:
 
@@ -86,8 +137,24 @@ These plugins are INSTALLED but NOT enabled.
 
 You can enable them if you like them.
 
+### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
+
+- Enable this if you want to do something else while you scape
+- How To Enable: Enable in plugin wrench menu
+- How to Use: Use Shift+Drag to move around, can also resize it
+
+### [Emote Clue Items](https://runelite.net/plugin-hub/show/emote-clue-items) (disabled by default) ![emote-clue-items_05K3G97PcDdsYx57-bnzzO18gZn2Vqb0C7_6diKVF90](https://github.com/user-attachments/assets/dfb3aaa2-f85d-462e-b467-d94c55499279)
+
+- Enable this if you do a lot of clue scrolls and want to not throw away clue items
+
 ### [Visual Metronome](https://runelite.net/plugin-hub/show/visual-metronome) (disabled by default) ![visual-metronome_T8-cVLsoIaFemkdkDIIhSqzrQbaI39PpQucoUVX0xUs](https://github.com/user-attachments/assets/c4b74382-fd1d-4fdd-885d-8681e8fd64b5)
 
 
 - Enable this if you want to see the game ticks visually
 - Configured to flash the tile underneath your character with a 4 tick cycle
+
+---
+
+# Included Runelite and Runescape setting changes
+
+- Default Prayer addon: Configured to show orb ticks and prayer under your healthbar 
