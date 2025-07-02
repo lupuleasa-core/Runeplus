@@ -250,8 +250,8 @@ Compared to the default Runelite and Runescape settings, we have performed these
 - Default GPU plugin: Enabled by default now
 - Shift+Click drop enabled in settings
 - Default Prayer plugin: Configured to show orb ticks and prayer under your healthbar
-- Ground items: Disabled (replaced by Loot Filters plugin)
 - Item prices shown on hover
+- Boost information shown in minimal fashion near inventory
 
 
 
