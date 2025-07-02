@@ -1,4 +1,4 @@
-# Runeplus - Runelite Profiles [v0.2] 
+# Runeplus - Runelite Profiles [v1.0] 
 A Runelite profile that is full of high quality plugins that "should be default in Runelite"
 
 🔴 Note: ALL plugins mentioned here are on the official Runelite plugin hub, this is just a guide
@@ -10,29 +10,35 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 # Available plugin profile packs
 
-<ins>WIP - Profiles not yet available, just manually install below plugins for now</ins>
+🔵 Runeplus **Standard** - Download [Runeplus Standard.properties](Runeplus%20Standard%20v1.0.properties) text file
 
-🔵 Runeplus **Standard**  (WIP, not yet created)
+🟣 Runeplus **Streamer mode**  (WIP)
 
-🟣 Runeplus **Streamer mode**  (WIP, not yet created)
+⚫ Runeplus **PVP**  (WIP)
 
-⚫ Runeplus **PVP**  (WIP, not yet created)
-
-🟠 Runeplus **PLUS** - All Enabled  (WIP, not yet created)
+🟠 Runeplus **PLUS** - All Enabled  (WIP)
 
 # How to import the profiles
 
-<ins>WIP - Profiles not yet available, just manually install below plugins for now</ins>
+All operations must be performed on the official Runelite client.
 
 ![image](https://github.com/user-attachments/assets/a512585d-19df-42bd-916b-5b6cd03ff995)
 
-1. Install the official Runelite client
-2. Click top right wrench icon to see plugins
+1. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
-4. Create a new plugin profile
-5. Download the profile configuration from this page <ins>(not available yet, just install manually)</ins>
-6. Click "Import" on that profile, provide the text file profile
-7. Click the arrow to the right of the profile to enable it
+6. Click "Import" on that profile, provide the text .properties file
+
+Click the arrow to the right of the profile to enable it
+
+![image](https://github.com/user-attachments/assets/e432daf9-08cf-4c32-a3f7-bdbf6aef617c)
+
+_Bonus Tip: If you want, you can make the profile default for your account_
+
+![image](https://github.com/user-attachments/assets/7e3e0f4e-e13a-4ac8-a197-5748a351dce5)
+
+
+
+
 
 Hopefully it saves a lot of time for new and returning players.
 
