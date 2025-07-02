@@ -3,7 +3,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 22
+- Installed, and enabled: 23
 - Installed, but disabled: 8
 - Reconfigured defaults: 3
 
@@ -148,6 +148,10 @@ Enjoy!
 ### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
 
 - Shows a bar for each skill in the skill menu
+
+### [Examine Tooltip](https://runelite.net/plugin-hub/show/examine-tooltip) ![examine-tooltip_O_2CNw0s7u17EPuShjr7knfilfuaVXTYE-Oxe15CJKY](https://github.com/user-attachments/assets/16413c10-882d-4cde-9a6e-2764565c10c4)
+
+- Shows a textbox near mouse when you examine things instead of having to open the chat to read
 
 ### [Green Thumb](https://runelite.net/plugin-hub/show/green-thumb)
 
