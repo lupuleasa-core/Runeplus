@@ -203,6 +203,10 @@ Auto-enabled in 🟠 Runeplus **PLUS** profile.
 - More features than "Ground Items" plugin
 - Disable "Ground Items" plugin
 
+### [Wasted Bank Space] (disabled by default) ![image](https://github.com/user-attachments/assets/5becba6a-d10a-4c1f-aa74-4b9bdb275a3b)
+
+- Enable this if you are running out of bank space.
+
 ### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) (disabled by default) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
 
 - Enable this to hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
