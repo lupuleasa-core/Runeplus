@@ -4,7 +4,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 ### Total plugins added:
 
 - Installed, and enabled: 20
-- Installed, but disabled: 7
+- Installed, but disabled: 8
 - Reconfigured defaults: 3
 
 See below all added plugins.
@@ -169,9 +169,11 @@ WIP: ADD PICS ON RUNELITE 101
 
 # Included INACTIVE plugins:
 
-These plugins are INSTALLED but NOT enabled. 
+These plugins are optional.
 
-You can ENABLE them if you like 
+They are disabled by default.
+
+<ins>How to use</ins>: If you like any of them you must enable them yourself
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
@@ -184,9 +186,14 @@ You can ENABLE them if you like
 
 ### [Visual Metronome](https://runelite.net/plugin-hub/show/visual-metronome) (disabled by default) ![visual-metronome_T8-cVLsoIaFemkdkDIIhSqzrQbaI39PpQucoUVX0xUs](https://github.com/user-attachments/assets/c4b74382-fd1d-4fdd-885d-8681e8fd64b5)
 
-
 - Enable this if you want to see the game ticks visually
 - Configured to flash the tile underneath your character with a 4 tick cycle
+
+### [Smart Metronome](https://runelite.net/plugin-hub/show/smart-metronome) ![smart-metronome_6Cd9g1D1vEB4a-lG2IYV0ee7tfz2L37sW4NtZad44FE](https://github.com/user-attachments/assets/86cdf116-937f-474f-9dab-24e8386bd5d2) (disabled by default) 
+
+- Enable this if you want to hear game ticks when in particular locations
+- Turns on automatically in specific areas, turns off when you exit them
+- Can be configured to be always on, or can be turned off from areas you don't need
 
 ### [Tick flick histogram](https://runelite.net/plugin-hub/show/histogram) (disabled by default) 
 
