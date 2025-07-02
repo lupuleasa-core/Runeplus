@@ -81,6 +81,12 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - <ins>How to use</ins>: Right click on map (not minimap), and click find Path
 - Includes agility shortcuts and teleports you have
 
+### [Teleport Maps](https://runelite.net/plugin-hub/show/spirit-tree-map) 
+
+![image](https://github.com/user-attachments/assets/7dfc1d15-9bb0-4fac-b1b2-36af55442d72)
+
+- Shows interactive maps for teleporting menus
+
 ### [Status bars](https://github.com/runelite/runelite/wiki/Status-Bars)
 
 ![status_bars_example](https://github.com/user-attachments/assets/71ccc496-1078-4af4-bdd8-80cf9185ef89)
