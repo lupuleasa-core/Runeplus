@@ -10,6 +10,8 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 # Available plugin profile packs
 
+<ins>WIP - Profiles not yet available, just manually install below plugins for now</ins>
+
 🔵 Runeplus **Standard**  (WIP, not yet created)
 
 🟣 Runeplus **Streamer mode**  (WIP, not yet created)
@@ -20,7 +22,7 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 # How to import the profiles
 
-<ins>WIP - Profile not yet available, just manually install below plugins for now in a new profile</ins>
+<ins>WIP - Profiles not yet available, just manually install below plugins for now</ins>
 
 ![image](https://github.com/user-attachments/assets/a512585d-19df-42bd-916b-5b6cd03ff995)
 
