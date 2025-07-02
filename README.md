@@ -1,11 +1,19 @@
 # Runeplus Runelite Profile v0.1 
 A Runelite profile that is full of high quality plugins that "should be default in Runelite"
 
-<ins>Note: ALL plugins you can get from the official Runelite plugin hub, this is just a guide</ins>.
+🔴 Note: ALL plugins mentioned here are on the official Runelite plugin hub, this is just a guide
+
+🔴 DO NOT install plugins from anywhere else APART FROM the official Runelite client wrench icon
+
+![image](https://github.com/user-attachments/assets/f30c97e7-a32b-469b-8bf2-ade1b478d442)
+
 
 # How to install the profile 
 
 <ins>WIP - Profile not yet available, just manually install below plugins for now</ins>
+
+![image](https://github.com/user-attachments/assets/a512585d-19df-42bd-916b-5b6cd03ff995)
+
 1. Install the official Runelite client
 2. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
