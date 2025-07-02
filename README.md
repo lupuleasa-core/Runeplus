@@ -1,4 +1,4 @@
-# Runeplus - Runelite Profiles [v1.0] 
+# Runeplus - Runelite Profiles [v1.1] 
 A Runelite profile that is full of high quality plugins that "should be default in Runelite"
 
 🔴 Note: ALL plugins mentioned here are on the official Runelite plugin hub, this is just a guide
