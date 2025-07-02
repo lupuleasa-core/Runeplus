@@ -7,7 +7,7 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 - Installed, and enabled: 25
 - Installed, but disabled: 12
-- Reconfigured defaults: 4
+- Reconfigured defaults: 5
 
 See below all added plugins.
 
@@ -28,6 +28,9 @@ Hopefully it saves a lot of time for new and returning players.
 
 Enjoy!
 
+
+
+
 ---
 
 # Runeplus philosophy
@@ -41,6 +44,9 @@ Enjoy!
 8. Pre configured defaults - All plugins also have key configuration tweaks so you don't have to do them
 9. Community driven - People can contribute to Runeplus and suggest additions, removals and tweaks
 10. Always up to date - The best up to date plugins included
+
+
+
 
 ---
 
@@ -178,6 +184,9 @@ Enjoy!
 
 - Tempoross, Guardians of the Rift, Rogues Den, Giant's Foundry, Mixology, Mahogany Homes etc.
 
+
+
+
 ---
 
 # How to enable, disable or configure plugins yourself:
@@ -189,6 +198,9 @@ Here's how you do it
 (in the top right wrench menu, first tab)
 
 WIP: ADD PICS ON RUNELITE 101
+
+
+
 
 ---
 
@@ -224,6 +236,9 @@ They are disabled by default.
 
 - Enable this if you want to practice prayer flicking, it is the best way to see what you are doing wrong
 
+
+
+
 ---
 
 # Included Runelite and Runescape setting changes
@@ -234,6 +249,10 @@ Compared to the default Runelite and Runescape settings, we have performed these
 - Shift+Click drop enabled in settings
 - Default Prayer plugin: Configured to show orb ticks and prayer under your healthbar
 - Ground items: Disabled (replaced by Loot Filters plugin)
+- Item prices shown on hover
+
+
+
 
 ---
 
@@ -280,6 +299,9 @@ Enable these if you want help in pvp
 ### [PvP Performance Tracker](https://runelite.net/plugin-hub/show/pvp-performance-tracker) (enabled)
 
 - Tells you exactly how bad you are at pvp
+
+
+
 
 ---
 
