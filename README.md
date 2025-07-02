@@ -10,13 +10,15 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 # Available plugin profile packs
 
-🔵 Runeplus **Standard** - Download [Runeplus Standard.properties](Runeplus%20Standard%20v1.0.properties) text file
+🔵 Runeplus **Standard**
 
 🟣 Runeplus **Streamer mode**  (WIP)
 
 ⚫ Runeplus **PVP**  (WIP)
 
-🟠 Runeplus **PLUS** - All Enabled  (WIP)
+🟠 Runeplus **PLUS** - Everything Enabled  (WIP)
+
+Download the .properties files you want in [Latest Releases](https://github.com/lupuleasa-core/Runeplus/releases)
 
 # How to import the profiles
 
@@ -26,7 +28,7 @@ All operations must be performed on the official Runelite client.
 
 1. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
-6. Click "Import" on that profile, provide the text .properties file
+6. Click "Import" on that profile, provide the text .properties file you like from [latest releases](https://github.com/lupuleasa-core/Runeplus/releases)
 
 Click the arrow to the right of the profile to enable it
 
