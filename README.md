@@ -73,6 +73,7 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - Assists in quest completion
 - <ins>How to use</ins>: Just start quests or open quests in your quest log
 - Configured with the minimal help mode (only helpful tips)
+- To change assistance level, go into quest helper and click the Cog button at the top.
 
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
 
