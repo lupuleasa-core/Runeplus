@@ -181,21 +181,6 @@ Enjoy!
 
 ---
 
-# How to enable, disable or configure plugins yourself:
-
-Don't like something, want to tweak, or enable more plugins?
-
-Here's how you do it
-
-(in the top right wrench menu, first tab)
-
-WIP: ADD PICS ON RUNELITE 101
-
-
-
-
----
-
 # Included INACTIVE plugins:
 
 These plugins are optional.
