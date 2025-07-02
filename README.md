@@ -189,3 +189,16 @@ You can ENABLE them if you like them.
 - Default GPU addon: Enabled by default now
 - Default Prayer addon: Configured to show orb ticks and prayer under your healthbar
 - Ground items: Disabled (replaced by Loot Filters addon)
+
+---
+
+# Streamer addons
+
+Enable these if you are a streamer
+
+*Tip: If you get sniped, press Ctrl+1 to quickly switch worlds* 
+
+### [World Hider](https://runelite.net/plugin-hub/show/world-hider) (disabled by default)
+
+### [Annoyance Mute](https://runelite.net/plugin-hub/show/annoyance-mute) (disabled by default)
+
