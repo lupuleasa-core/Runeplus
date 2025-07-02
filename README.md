@@ -75,11 +75,8 @@ Enjoy!
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
 
 - A GPS-like plugin that shows shortest path
-- <ins>How to use</ins>: Right click on map, click find Path
-- Includes teleports you have
-- Includes agility shortcuts you can use
-- Includes fairy rings
-- etc.
+- <ins>How to use</ins>: Right click on map (not minimap), and click find Path
+- Includes agility shortcuts and teleports you have
 
 ### [Key Remapping Plus](https://runelite.net/plugin-hub/show/key-remapping-plus)
 
