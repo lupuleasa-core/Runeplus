@@ -3,8 +3,8 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 23
-- Installed, but disabled: 8
+- Installed, and enabled: 24
+- Installed, but disabled: 12
 - Reconfigured defaults: 3
 
 See below all added plugins.
@@ -162,6 +162,10 @@ Enjoy!
 
 - Shows you timers for your kitten's hunger and needs
 
+### [Wilderness Player Alarm](https://runelite.net/plugin-hub/show/wilderness-player-alarm) (enabled)
+
+- Makes your screen flash when player is spotted while in the wildy
+
 ### [Many, many minigame helper plugins](https://runelite.net/plugin-hub)
 
 - Tempoross, Guardians of the Rift, Rogues Den, Giant's Foundry, Mixology, Mahogany Homes etc.
@@ -228,7 +232,41 @@ Compared to the default Runelite and Runescape settings, we have performed these
 
 Enable these if you want help in pvp
 
-WIP: add oda setup
+*Tip: To practice safe pvp (even on Hardcore mode), you can try these safe minigames*
+- [Last Man Standing](https://oldschool.runescape.wiki/w/Last_Man_Standing)
+- [Castle Wars](https://oldschool.runescape.wiki/w/Castle_Wars)
+- [Clan Wars](https://oldschool.runescape.wiki/w/Clan_Wars)
+- [Emir's Arena](https://oldschool.runescape.wiki/w/Emir%27s_Arena)
+- [Soul Wars](https://oldschool.runescape.wiki/w/Soul_Wars)
+
+### [Customizable XP Drops](https://github.com/xmopi/customizable-xp-drops) (disabled by default)
+
+![68747470733a2f2f692e696d6775722e636f6d2f4d5064464676792e706e67](https://github.com/user-attachments/assets/d46a11e6-9b12-4cae-8d77-ac014246af54)
+
+- Shows predicted hit alongside your XP drops
+- Allows you to see the damage you have done much earlier than the vanilla hitsplat
+
+### [Entity Hider (hide self mode)](https://github.com/runelite/runelite/wiki/Entity-Hider) (disabled by default)
+
+- Allows you to see what your opponent is doing while on top of you
+- Plugin is now configured to hide yourself instead of others
+- You have to tick "Hide local player" in settings
+
+### [Player Outline](https://runelite.net/plugin-hub/show/player-outline) (disabled by default) ![player-outline_DLBO4KfClXcrSJTjgXE5IbqKpK5gme8ZpK4q1Lf7fb0](https://github.com/user-attachments/assets/6ddf0d29-0abf-40e7-8c86-6948eae05caf)
+
+- Shows an outline of your player
+
+### [Attack Ranges](https://runelite.net/plugin-hub/show/attack-ranges) (disabled by default) ![attack-ranges_g51Pa4oNfL6VTkyAZujIR2phYp-DTsaLjVv13g1WBqQ](https://github.com/user-attachments/assets/c7ae0289-8523-4ca5-8515-77e0525ff8ea)
+
+- Displays the attack range of your currently equipped weapon
+
+### [Wilderness Multi Lines](https://runelite.net/plugin-hub/show/wilderness-multi-lines) (disabled by default)
+
+- Shows the lines where wilderness begins, and also where multi player combat begins
+
+### [Wilderness Player Alarm](https://runelite.net/plugin-hub/show/wilderness-player-alarm) (enabled)
+
+- Makes your screen flash when player is spotted
 
 ---
 
