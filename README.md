@@ -10,7 +10,7 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 # How to install the profile 
 
-<ins>WIP - Profile not yet available, just manually install below plugins for now</ins>
+<ins>WIP - Profile not yet available, just manually install below plugins for now in a new profile</ins>
 
 ![image](https://github.com/user-attachments/assets/a512585d-19df-42bd-916b-5b6cd03ff995)
 
