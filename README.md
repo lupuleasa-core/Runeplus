@@ -5,7 +5,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 - Installed, and enabled: 24
 - Installed, but disabled: 12
-- Reconfigured defaults: 3
+- Reconfigured defaults: 4
 
 See below all added plugins.
 
@@ -162,7 +162,7 @@ Enjoy!
 
 - Shows you timers for your kitten's hunger and needs
 
-### [Wilderness Player Alarm](https://runelite.net/plugin-hub/show/wilderness-player-alarm) (enabled)
+### [Wilderness Player Alarm](https://runelite.net/plugin-hub/show/wilderness-player-alarm)
 
 - Makes your screen flash when player is spotted while in the wildy
 
@@ -223,6 +223,7 @@ They are disabled by default.
 Compared to the default Runelite and Runescape settings, we have performed these useful changes:
 
 - Default GPU plugin: Enabled by default now
+- Shift+Click drop enabled in settings
 - Default Prayer plugin: Configured to show orb ticks and prayer under your healthbar
 - Ground items: Disabled (replaced by Loot Filters plugin)
 
