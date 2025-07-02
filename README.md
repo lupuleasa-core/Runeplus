@@ -80,11 +80,6 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - <ins>How to use</ins>: Right click on map (not minimap), and click find Path
 - Includes agility shortcuts and teleports you have
 
-### [Key Remapping Plus](https://runelite.net/plugin-hub/show/key-remapping-plus)
-
-- Adds ways to remap keys
-- <ins>How to use</ins>: Press 1,2,3,4, and Tilde instead of F1,F2,F3,F4 and Escape
-
 ### [Status bars](https://github.com/runelite/runelite/wiki/Status-Bars)
 
 ![status_bars_example](https://github.com/user-attachments/assets/71ccc496-1078-4af4-bdd8-80cf9185ef89)
@@ -252,8 +247,8 @@ Compared to the default Runelite and Runescape settings, we have performed these
 - Default Prayer plugin: Configured to show orb ticks and prayer under your healthbar
 - Item prices shown on hover
 - Boost information shown in minimal fashion near inventory
-
-
+- Key remaps: Press 1,2,3,4, and Tilde instead of F1,F2,F3,F4 and Escape
+- Use WASD to move camera, and you can zoom in further
 
 
 ---
