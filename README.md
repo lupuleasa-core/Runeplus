@@ -3,7 +3,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 21
+- Installed, and enabled: 22
 - Installed, but disabled: 8
 - Reconfigured defaults: 3
 
@@ -46,7 +46,6 @@ Enjoy!
 
 ### [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts) ![wiki-search-shortcuts_nUVDyiU_OKzKXi4HDMDmUYaZ7A1h7ODkNtgc-p0_IEE](https://github.com/user-attachments/assets/334e21d2-1690-49fa-938c-3b76ced5fef4)
 
-
 - <ins>How to use</ins>: Use Ctrl+F to search wiki anywhere in-game
 
 ### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
@@ -69,6 +68,11 @@ Enjoy!
 - Highlights items based on their value
 - <ins>How to use</ins>: Press ALT and left/right click dropped loot to hide/highlight it
 - Better than "Ground Items" plugin
+
+### [Key Remapping Plus](https://runelite.net/plugin-hub/show/key-remapping-plus)
+
+- Adds ways to remap keys
+- <ins>How to use</ins>: Press 1,2,3,4, and Tilde instead of F1,F2,F3,F4 and Escape
 
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
 
