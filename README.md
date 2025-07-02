@@ -95,7 +95,6 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
   - Previous World Ctrl+2
   - Next World Ctrl+3
  
-
 ### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
 
 - See monster loot drops in-game
@@ -172,9 +171,13 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 
 - Shows a textbox near mouse when you examine things instead of having to open the chat to read
 
+### [Herblore Recipes](https://runelite.net/plugin-hub/show/herblorerecipes) ![herblorerecipes_iHUKPdFReWigK_P54w7UH4emjLlWP90XlYUgUaCHrK8](https://github.com/user-attachments/assets/af202f11-979f-4c04-9197-7e4f87c483fd)
+
+- Shows info tooltip on herbs
+
 ### [Green Thumb](https://runelite.net/plugin-hub/show/green-thumb)
 
-- Shows info tooltip on farmable seeds and herbs
+- Shows info tooltip on farmable seeds
 
 ### [Kitten Tracker](https://runelite.net/plugin-hub/show/kitten-tracker)
 
