@@ -52,12 +52,14 @@ Enjoy!
 ### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
 
 - Assists in quest completion
+- How to use: Just start quests or open quests in your quest log
 - Configured with the minimal help mode (only helpful tips) 
 
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
 
 - A GPS-like plugin that shows shortest path
-- Including teleports you have
+- How to use: Right click on map, click find Path
+- Includes teleports you have
 - Includes agility shortcuts you can use
 - Includes fairy rings
 - etc.
@@ -65,14 +67,16 @@ Enjoy!
 ### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
 
 - Highlights items based on their value
+- How to customize: Press ALT and left/right click dropped loot to hide/highlight it
 - Better than "Ground Items" plugin
 
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
 
 - Allows quickly jumping to another world via a hotkey
-- Random World Ctrl+1
-- Previous World Ctrl+2
-- Next World Ctrl+3
+- How to use:
+  - Random World Ctrl+1
+  - Previous World Ctrl+2
+  - Next World Ctrl+3
 
 ### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
 
@@ -81,21 +85,24 @@ Enjoy!
 ### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
 
 - Ability to search your bank while on the go
+- How to use: Click the plugin icon to the plugin menu to the right
 
 ### [Banked Experience](https://runelite.net/plugin-hub/show/banked-experience) ![banked-experience_pGq7p6etRUhi86tWjZXB5ydrtYP5UBeVGE-BHe2QbuQ](https://github.com/user-attachments/assets/2d913719-2525-4bcb-add3-3422dcec5641)
 
 - Shows how much Experience is sitting in your bank in ready to be processed materials
+- How to use: Click the plugin icon to the plugin menu to the right
 
 ### [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts)
 
 ![example](https://github.com/user-attachments/assets/2a9e4d39-b081-43b0-8374-ec457305fda3)
 
 - Allows organizing special layouts in your bank
+- How to use: Drag items in your bank to the bar on the left side of your bank
 
 ### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
 
 - See monster loot drops in-game
-- Right-click monster > Click "Loot lookup"
+- How to use: Right-click monster > Click "Loot lookup"
 
 ### [Monster Menu HP](https://runelite.net/plugin-hub/show/menuhp) ![menuhp_PeOLSG25QGpo1JSXg4Udq3vAEFSaZmjjQ0T4aP_DP6Q](https://github.com/user-attachments/assets/1fb98d7b-5eed-4daa-b496-9add80dfdb12)
 
@@ -145,7 +152,7 @@ You can ENABLE them if you like them.
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
-- Enable this if you want to do something else while you scape
+- Enable this if you want to see a mini-window while you do something else (CANNOT click on window, only visual)
 - How To Enable: Enable in plugin wrench menu
 - How to Use: Use Shift+Drag to move around, can also resize it
 
