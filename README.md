@@ -1,5 +1,5 @@
-# Runeplus
-A Runelite profile that is full of high quality plugins that "should be default in Runelite"
+# Runeplus v0.1
+A <ins>Runelite profile</ins> that is full of high quality plugins that "should be default in Runelite"
 
 ### Total plugins added:
 
