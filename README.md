@@ -62,6 +62,8 @@ Enjoy!
 
 # Included active plugins:
 
+Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
+
 ### [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts) ![wiki-search-shortcuts_nUVDyiU_OKzKXi4HDMDmUYaZ7A1h7ODkNtgc-p0_IEE](https://github.com/user-attachments/assets/334e21d2-1690-49fa-938c-3b76ced5fef4)
 
 - <ins>How to use</ins>: Use Ctrl+F to search wiki anywhere in-game
@@ -188,9 +190,9 @@ Enjoy!
 
 # Included INACTIVE plugins:
 
-These plugins are optional.
+These plugins are optional and disabled by default.
 
-They are disabled by default.
+Auto-enabled in 🟠 Runeplus **PLUS** profile.
 
 <ins>How to use</ins>: If you like any of them you must enable them yourself
 
@@ -254,6 +256,8 @@ Compared to the default Runelite and Runescape settings, we have performed these
 
 Enable these if you want help in pvp
 
+Auto enabled in ⚫ Runeplus **PVP** and 🟠 Runeplus **PLUS** profile.
+
 *Tip: To practice safe pvp (even on Hardcore mode), you can try these safe minigames*
 - [Last Man Standing](https://oldschool.runescape.wiki/w/Last_Man_Standing)
 - [Castle Wars](https://oldschool.runescape.wiki/w/Castle_Wars)
@@ -302,6 +306,8 @@ Enable these if you want help in pvp
 # Streamer plugins
 
 Enable these if you are a streamer
+
+Auto enabled in 🟣 Runeplus **Streamer mode** and 🟠 Runeplus **PLUS** profile
 
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92) (enabled) 
 
