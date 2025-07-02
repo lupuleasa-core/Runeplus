@@ -13,16 +13,14 @@ See below all added plugins.
 
 # How to install
 1. Install the official Runelite client
-2. Go top right at the wrench icon
-3. Go to the middle tab called "Profiles"
-4. Create new profile
-5. Grab the profile from this page
-6. Click "Import" on that profile
-7. Click the arrow to the right to enable that profile
+2. Click top right wrench icon to see plugins
+3. Click the middle tab called "Profiles"
+4. Create a new plugin profile
+5. Download the profile configuration from this page
+6. Click "Import" on that profile, provide the text file
+7. Click the arrow to the right of the profile to enable it
 
-
-
-Hopefully it saves a lot of time and establishes a solid plugin foundation for new and returning players.
+Hopefully it saves a lot of time for new and returning players.
 
 *All credits go to the Runelite team, Jagex and the great osrs plugin community!*
 
@@ -79,20 +77,7 @@ Enjoy!
   - Random World Ctrl+1
   - Previous World Ctrl+2
   - Next World Ctrl+3
-
-### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
-
-- Hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
-
-### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
-
-- Ability to search your bank while on the go
-- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
-
-### [Banked Experience](https://runelite.net/plugin-hub/show/banked-experience) ![banked-experience_pGq7p6etRUhi86tWjZXB5ydrtYP5UBeVGE-BHe2QbuQ](https://github.com/user-attachments/assets/2d913719-2525-4bcb-add3-3422dcec5641)
-
-- Shows how much Experience is sitting in your bank in ready to be processed materials
-- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
+ 
 
 ### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
 
@@ -121,6 +106,20 @@ Enjoy!
 
 - See what other players are wearing
 - <ins>How to use</ins>: Right click player, click inspect
+
+### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
+
+- Hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
+
+### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
+
+- Ability to search your bank while on the go
+- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
+
+### [Banked Experience](https://runelite.net/plugin-hub/show/banked-experience) ![banked-experience_pGq7p6etRUhi86tWjZXB5ydrtYP5UBeVGE-BHe2QbuQ](https://github.com/user-attachments/assets/2d913719-2525-4bcb-add3-3422dcec5641)
+
+- Shows how much Experience is sitting in your bank in ready to be processed materials
+- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
 
 ### [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts)
 
@@ -156,13 +155,23 @@ Enjoy!
 
 ---
 
+# How to enable, disable or configure addons yourself:
+
+Don't like something, want to tweak, or enable more addons?
+
+Here's how you do it
+
+(in the top right wrench menu, first tab)
+
+WIP: ADD PICS ON RUNELITE 101
+
+---
+
 # Included INACTIVE plugins:
 
 These plugins are INSTALLED but NOT enabled. 
 
-You can ENABLE them if you like (in the top right wrench menu, first tab)
-
-WIP: ADD PIC ON HOW TO ENABLE
+You can ENABLE them if you like 
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
@@ -186,6 +195,8 @@ WIP: ADD PIC ON HOW TO ENABLE
 ---
 
 # Included Runelite and Runescape setting changes
+
+Compared to the default Runelite and Runescape settings, we have performed these useful changes:
 
 - Default GPU addon: Enabled by default now
 - Default Prayer addon: Configured to show orb ticks and prayer under your healthbar
