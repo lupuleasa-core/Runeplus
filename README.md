@@ -141,6 +141,12 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - Allows organizing special layouts in your bank
 - <ins>How to use</ins>: Drag items in your bank to the bar on the left side of your bank
 
+### [Bank Equipment Stat Filter](https://runelite.net/plugin-hub/show/bank-equipment-stat-filter)
+
+![exampleFilterV2](https://github.com/user-attachments/assets/750d4e27-d4b8-4eab-b5c8-0bf01d0491d7)
+
+- Allows quickly searching your bank for the best gear for a specific attribute.
+
 ### [Inventory Setups](https://runelite.net/plugin-hub/show/inventory-setups) ![inventory-setups_a5zwy0jXjZn4mD6uE7iErJlSaK3Frb5-yKS-y8GkBHo](https://github.com/user-attachments/assets/9da9810e-7e9b-47e9-97d1-7fb36c2cd727)
 
 - Allows saving your inventory to quickly equip it later from bank
