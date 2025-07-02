@@ -13,7 +13,7 @@ See below all added plugins.
 
 *Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
 
-# How to install (WIP, not yet available, just manually install below plugins)
+# How to install the profile (WIP, not yet available, just manually install below plugins for now)
 1. Install the official Runelite client
 2. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
