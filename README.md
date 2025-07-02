@@ -140,6 +140,7 @@ Enjoy!
 ### [Menu Swapper Extended](https://runelite.net/plugin-hub/show/menu-swapper-extended) ![menu-swapper-extended_BDTgReHpamJDrxwe2BYC8qYOXy--wf01sj6FbZ6TEtU](https://github.com/user-attachments/assets/fd0ec0b4-b63e-4e7e-8c1b-36d552c0dac6)
 
 - Makes many objects and NPCs have their most useful action on Left click as default (instead of having to use the Right-Click menu)
+- <ins>How to use</ins>: To configure defaults, Shift+Right-Click on anything to change the default left click action
 
 ### [XP Drop Extended](https://runelite.net/plugin-hub/show/xp-drop-extended) ![output-onlinepngtools](https://github.com/user-attachments/assets/488c9597-9f8a-4fcc-855e-a6390d098b64)
 
