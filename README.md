@@ -117,10 +117,6 @@ Enjoy!
 - See what other players are wearing
 - <ins>How to use</ins>: Right click player, click inspect
 
-### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
-
-- Hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
-
 ### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
 
 - Ability to search your bank while on the go
@@ -195,6 +191,11 @@ They are disabled by default.
 - <ins>How to use</ins>: Press ALT and left/right click dropped loot to hide/highlight it
 - More features than "Ground Items" plugin
 - Disable "Ground Items" plugin
+
+### [Tool Required](https://runelite.net/plugin-hub/show/tool-required) (disabled by default) ![tool-required_SqP_7KXWGeews6UIyKrJ5XwqhbIQSlUIx9aNZt7XQCo](https://github.com/user-attachments/assets/ef682c2e-9c3a-4486-9804-c07a8f912aea)
+
+- Enable this to hide click options for objects you lack the tool (e.g. no "Chop Tree" action if no axe)
+- Will stop you from clicking on all those trees when traveling
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
