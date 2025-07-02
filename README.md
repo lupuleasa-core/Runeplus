@@ -3,11 +3,13 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 18
+- Installed, and enabled: 20
 - Installed, but disabled: 4
 - Reconfigured defaults: 1
 
 See below all added plugins.
+
+*Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
 
 # How to install
 1. Install the official Runelite client
@@ -52,13 +54,13 @@ Enjoy!
 ### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
 
 - Assists in quest completion
-- How to use: Just start quests or open quests in your quest log
+- <ins>How to use</ins>: Just start quests or open quests in your quest log
 - Configured with the minimal help mode (only helpful tips) 
 
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
 
 - A GPS-like plugin that shows shortest path
-- How to use: Right click on map, click find Path
+- <ins>How to use</ins>: Right click on map, click find Path
 - Includes teleports you have
 - Includes agility shortcuts you can use
 - Includes fairy rings
@@ -73,7 +75,7 @@ Enjoy!
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
 
 - Allows quickly jumping to another world via a hotkey
-- How to use:
+- <ins>How to use</ins>:
   - Random World Ctrl+1
   - Previous World Ctrl+2
   - Next World Ctrl+3
@@ -85,24 +87,17 @@ Enjoy!
 ### [Bank Memory](https://runelite.net/plugin-hub/show/bank-memory) ![bank-memory_n4VrxXSdN-Kqaj3aCc3ROskmknTWzRX4ZpMvKKX1vXI](https://github.com/user-attachments/assets/233d947a-07f9-40cf-ab70-5a5132100732)
 
 - Ability to search your bank while on the go
-- How to use: Click the plugin icon to the plugin menu to the right
+- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
 
 ### [Banked Experience](https://runelite.net/plugin-hub/show/banked-experience) ![banked-experience_pGq7p6etRUhi86tWjZXB5ydrtYP5UBeVGE-BHe2QbuQ](https://github.com/user-attachments/assets/2d913719-2525-4bcb-add3-3422dcec5641)
 
 - Shows how much Experience is sitting in your bank in ready to be processed materials
-- How to use: Click the plugin icon to the plugin menu to the right
-
-### [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts)
-
-![example](https://github.com/user-attachments/assets/2a9e4d39-b081-43b0-8374-ec457305fda3)
-
-- Allows organizing special layouts in your bank
-- How to use: Drag items in your bank to the bar on the left side of your bank
+- <ins>How to use</ins>: Click the plugin icon to the plugin menu to the right
 
 ### [Monster Loot lookup](https://runelite.net/plugin-hub/show/loot-lookup) ![loot-lookup_zEwJ3325X4o9HgcTYYaQgIsz7tpTynxF3QjfDxkUd1o](https://github.com/user-attachments/assets/c209d1c1-5c57-4207-a28b-16c9f18615c9)
 
 - See monster loot drops in-game
-- How to use: Right-click monster > Click "Loot lookup"
+- <ins>How to use</ins>: Right-click monster > Click "Loot lookup"
 
 ### [Monster Menu HP](https://runelite.net/plugin-hub/show/menuhp) ![menuhp_PeOLSG25QGpo1JSXg4Udq3vAEFSaZmjjQ0T4aP_DP6Q](https://github.com/user-attachments/assets/1fb98d7b-5eed-4daa-b496-9add80dfdb12)
 
@@ -121,6 +116,23 @@ Enjoy!
 ![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
 
 - Shows maxhits gained on weapons, spells, and potions
+
+### [Equipment Inspector](https://runelite.net/plugin-hub/show/equipment-inspector) ![equipment-inspector_LVSwC91eWPATmsH3bJvB8sgqbNnLmuEnIHXBd1Ncgxg](https://github.com/user-attachments/assets/c4a546aa-a23b-409c-94ea-af104f94e1c3)
+
+- See what other players are wearing
+- <ins>How to use</ins>: Right click player, click inspect
+
+### [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts)
+
+![example](https://github.com/user-attachments/assets/2a9e4d39-b081-43b0-8374-ec457305fda3)
+
+- Allows organizing special layouts in your bank
+- <ins>How to use</ins>: Drag items in your bank to the bar on the left side of your bank
+
+### [Inventory Setups](https://runelite.net/plugin-hub/show/inventory-setups) ![inventory-setups_a5zwy0jXjZn4mD6uE7iErJlSaK3Frb5-yKS-y8GkBHo](https://github.com/user-attachments/assets/9da9810e-7e9b-47e9-97d1-7fb36c2cd727)
+
+- Allows saving your inventory to quickly equip it later from bank
+- <ins>How to use</ins>: Use the inventory setup plugin to the right plugin bar (more advanced tutorials on the [main plugin page](https://runelite.net/plugin-hub/show/inventory-setups))
 
 ### [XP Drop Extended](https://runelite.net/plugin-hub/show/xp-drop-extended) ![output-onlinepngtools](https://github.com/user-attachments/assets/488c9597-9f8a-4fcc-855e-a6390d098b64)
 
@@ -154,7 +166,7 @@ You can ENABLE them if you like them.
 
 - Enable this if you want to see a mini-window while you do something else (CANNOT click on window, only visual)
 - How To Enable: Enable in plugin wrench menu
-- How to Use: Use Shift+Drag to move around, can also resize it
+- <ins>How to use</ins>: Use Shift+Drag to move around, can also resize it
 
 ### [Emote Clue Items](https://runelite.net/plugin-hub/show/emote-clue-items) (disabled by default) ![emote-clue-items_05K3G97PcDdsYx57-bnzzO18gZn2Vqb0C7_6diKVF90](https://github.com/user-attachments/assets/dfb3aaa2-f85d-462e-b467-d94c55499279)
 
