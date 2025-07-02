@@ -49,7 +49,7 @@ Enjoy!
 ### [Wiki search](https://runelite.net/plugin-hub/show/wiki-search-shortcuts) ![wiki-search-shortcuts_nUVDyiU_OKzKXi4HDMDmUYaZ7A1h7ODkNtgc-p0_IEE](https://github.com/user-attachments/assets/334e21d2-1690-49fa-938c-3b76ced5fef4)
 
 
-- Use Ctrl+F to search wiki anywhere in-game
+- <ins>How to use</ins>: Use Ctrl+F to search wiki anywhere in-game
 
 ### [Quest helper (minimal mode)](https://runelite.net/plugin-hub/show/quest-helper) ![quest-helper_REfeAQPwp7q_B_w_Q4crJsD-y-NfFjjzD4X33K4QMwc](https://github.com/user-attachments/assets/a2814048-261c-4f73-aa94-add5a2dd1157)
 
