@@ -3,16 +3,6 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 <ins>Note: ALL plugins you can get from the official Runelite plugin hub, this is just a guide</ins>.
 
-### Total plugins added:
-
-- Installed, and enabled: 25
-- Installed, but disabled: 12
-- Reconfigured defaults: 5
-
-See below all added plugins.
-
-*Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
-
 # How to install the profile (WIP, not yet available, just manually install below plugins for now)
 1. Install the official Runelite client
 2. Click top right wrench icon to see plugins
@@ -325,3 +315,15 @@ Enable these if you are a streamer
 - Disable it if you want to see players again
 
 
+
+---
+
+### Total plugins added:
+
+- Installed, and enabled: 25
+- Installed, but disabled: 12
+- Reconfigured defaults: 5
+
+See below all added plugins.
+
+*Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
