@@ -8,15 +8,17 @@ A Runelite profile that is full of high quality plugins that "should be default 
 ![image](https://github.com/user-attachments/assets/f30c97e7-a32b-469b-8bf2-ade1b478d442)
 
 
-# Available profiles
+# Available plugin profile packs
 
-🔵 Runeplus Standard plugin profile (WIP, not yet created)
+🔵 Runeplus **Standard**  (WIP, not yet created)
 
-🟣 Runeplus Streamer mode plugin profile (WIP, not yet created)
+🟣 Runeplus **Streamer mode**  (WIP, not yet created)
 
-⚫ Runeplus PVP plugin profile (WIP, not yet created)
+⚫ Runeplus **PVP**  (WIP, not yet created)
 
-# How to install the profile 
+🟠 Runeplus **PLUS** - All Enabled  (WIP, not yet created)
+
+# How to import the profiles
 
 <ins>WIP - Profile not yet available, just manually install below plugins for now in a new profile</ins>
 
