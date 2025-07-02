@@ -59,12 +59,6 @@ Enjoy!
 - Includes fairy rings
 - etc.
 
-### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
-
-- Highlights items based on their value
-- <ins>How to use</ins>: Press ALT and left/right click dropped loot to hide/highlight it
-- Better than "Ground Items" plugin
-
 ### [Key Remapping Plus](https://runelite.net/plugin-hub/show/key-remapping-plus)
 
 - Adds ways to remap keys
@@ -199,6 +193,13 @@ These plugins are optional.
 They are disabled by default.
 
 <ins>How to use</ins>: If you like any of them you must enable them yourself
+
+### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) (disabled by default) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
+
+- Enable this if you want to filter item highlights based on their value
+- <ins>How to use</ins>: Press ALT and left/right click dropped loot to hide/highlight it
+- More features than "Ground Items" plugin
+- Disable "Ground Items" plugin
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
