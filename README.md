@@ -113,6 +113,13 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 
 - Shows npc max hits
 
+### [Customizable XP Drops](https://github.com/xmopi/customizable-xp-drops) 
+
+![68747470733a2f2f692e696d6775722e636f6d2f4d5064464676792e706e67](https://github.com/user-attachments/assets/d46a11e6-9b12-4cae-8d77-ac014246af54)
+
+- Shows predicted hit alongside your XP drops
+- Allows you to see the damage you have done much earlier than the vanilla hitsplat
+
 ### [Max hit calculator](https://runelite.net/plugin-hub/show/max-hit-calculator) ![image](https://github.com/user-attachments/assets/a35cac06-1dde-4bb5-a7dd-7816cc664bfa)
 
 ![image](https://github.com/user-attachments/assets/8d615d4e-6522-4faf-94d8-72f507c06d4c) ![image](https://github.com/user-attachments/assets/ab21db41-5569-4c7f-b49c-83aeca30aa76) ![image](https://github.com/user-attachments/assets/58abaf9c-9bd0-4638-a714-a2d88d2d2213)
@@ -156,10 +163,6 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 
 - Makes many objects and NPCs have their most useful action on Left click as default (instead of having to use the Right-Click menu)
 - <ins>How to use</ins>: To configure defaults, Shift+Right-Click on anything to change the default left click action
-
-### [XP Drop Extended](https://runelite.net/plugin-hub/show/xp-drop-extended) ![output-onlinepngtools](https://github.com/user-attachments/assets/488c9597-9f8a-4fcc-855e-a6390d098b64)
-
-- Shows XP drops over objects
 
 ### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
 
@@ -272,13 +275,6 @@ Auto enabled in ⚫ Runeplus **PVP** and 🟠 Runeplus **PLUS** profile.
 - [Clan Wars](https://oldschool.runescape.wiki/w/Clan_Wars)
 - [Emir's Arena](https://oldschool.runescape.wiki/w/Emir%27s_Arena)
 - [Soul Wars](https://oldschool.runescape.wiki/w/Soul_Wars)
-
-### [Customizable XP Drops](https://github.com/xmopi/customizable-xp-drops) (disabled by default)
-
-![68747470733a2f2f692e696d6775722e636f6d2f4d5064464676792e706e67](https://github.com/user-attachments/assets/d46a11e6-9b12-4cae-8d77-ac014246af54)
-
-- Shows predicted hit alongside your XP drops
-- Allows you to see the damage you have done much earlier than the vanilla hitsplat
 
 ### [Entity Hider (hide self mode)](https://github.com/runelite/runelite/wiki/Entity-Hider) (disabled by default)
 
