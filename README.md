@@ -3,7 +3,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 20
+- Installed, and enabled: 21
 - Installed, but disabled: 8
 - Reconfigured defaults: 3
 
@@ -132,6 +132,10 @@ Enjoy!
 
 - Allows saving your inventory to quickly equip it later from bank
 - <ins>How to use</ins>: Use the inventory setup plugin to the right plugin bar (more advanced tutorials on the [main plugin page](https://runelite.net/plugin-hub/show/inventory-setups))
+
+### [Menu Swapper Extended](https://runelite.net/plugin-hub/show/menu-swapper-extended) ![menu-swapper-extended_BDTgReHpamJDrxwe2BYC8qYOXy--wf01sj6FbZ6TEtU](https://github.com/user-attachments/assets/fd0ec0b4-b63e-4e7e-8c1b-36d552c0dac6)
+
+- Makes many objects and NPCs have their most useful action on Left click as default (instead of having to use the Right-Click menu)
 
 ### [XP Drop Extended](https://runelite.net/plugin-hub/show/xp-drop-extended) ![output-onlinepngtools](https://github.com/user-attachments/assets/488c9597-9f8a-4fcc-855e-a6390d098b64)
 
