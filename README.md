@@ -32,16 +32,16 @@ Enjoy!
 ---
 
 # Runeplus philosophy
-1. High quality - Only plugins that "should be default in Runelite" based on votes and discussion
-2. Ease of installation - Anyone playing on Runelite can quickly import this profile
-3. New player friendly - Only plugins that would not confuse a new player, and be helpful down the road
-4. Non-intrusive - These plugins should never be in your way or annoy you
-5. Aesthetically pleasing - These plugins shouldn't mess with the aesthetic design of the game
-6. Old school feeling - Included plugins don't modify the game away from the original osrs design
-7. Security - Only official plugins that are already on the official Runelite plugin hub will be installed
-8. Pre configured defaults - All plugins also have key configuration tweaks so you don't have to do them
-9. Community driven - People can contribute to Runeplus and suggest additions, removals and tweaks
-10. Always up to date - The best up to date plugins included
+1. 🟡 High quality - Only plugins that "should be default in Runelite" based on votes and discussion
+2. 🟢 Ease of installation - Anyone playing on Runelite can quickly import this profile
+3. 🟡 New player friendly - Only plugins that would not confuse a new player, and be helpful down the road
+4. 🟢 Non-intrusive - These plugins should never be in your way or annoy you
+5. 🟡 Aesthetically pleasing - These plugins shouldn't mess with the aesthetic design of the game
+6. 🟢 Old school feeling - Included plugins don't modify the game away from the original osrs design
+7. 🟡 Security - Only official plugins that are already on the official Runelite plugin hub will be installed
+8. 🟢 Pre configured defaults - All plugins also have key configuration tweaks so you don't have to do them
+9. 🟡 Community driven - People can contribute to Runeplus and suggest additions, removals and tweaks
+10. 🟢 Always up to date - The best up to date plugins included
 
 
 
