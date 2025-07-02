@@ -294,7 +294,9 @@ Enable these if you want help in pvp
 
 Enable these if you are a streamer
 
-*Tip: If you get sniped, press Ctrl+1 to quickly switch worlds* 
+### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92) (enabled) 
+
+- *Tip: If you get sniped, press Ctrl+1 to quickly switch worlds*  
 
 ### [World Hider](https://runelite.net/plugin-hub/show/world-hider) (disabled by default)
 
