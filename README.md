@@ -3,7 +3,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 
 ### Total plugins added:
 
-- Installed, and enabled: 24
+- Installed, and enabled: 25
 - Installed, but disabled: 12
 - Reconfigured defaults: 4
 
@@ -52,7 +52,7 @@ Enjoy!
 
 - Assists in quest completion
 - <ins>How to use</ins>: Just start quests or open quests in your quest log
-- Configured with the minimal help mode (only helpful tips) 
+- Configured with the minimal help mode (only helpful tips)
 
 ### [Shortest path](https://runelite.net/plugin-hub/show/shortest-path) ![shortest-path_9dE0IZpOpGLs-evVlxsV6MPpfDELFiOvpMHnz4eiiL4](https://github.com/user-attachments/assets/d55b7f88-e97d-4ec6-9e35-99072ab53b39)
 
@@ -261,13 +261,17 @@ Enable these if you want help in pvp
 
 - Displays the attack range of your currently equipped weapon
 
-### [Wilderness Multi Lines](https://runelite.net/plugin-hub/show/wilderness-multi-lines) (disabled by default)
+### [Wilderness Multi Lines](https://runelite.net/plugin-hub/show/wilderness-multi-lines) (enabled)
 
 - Shows the lines where wilderness begins, and also where multi player combat begins
 
 ### [Wilderness Player Alarm](https://runelite.net/plugin-hub/show/wilderness-player-alarm) (enabled)
 
 - Makes your screen flash when player is spotted
+
+### [PvP Performance Tracker](https://runelite.net/plugin-hub/show/pvp-performance-tracker) (enabled)
+
+- Tells you exactly how bad you are at pvp
 
 ---
 
