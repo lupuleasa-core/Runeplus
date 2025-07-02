@@ -4,7 +4,7 @@ A <ins>Runelite profile</ins> that is full of high quality plugins that "should 
 ### Total plugins added:
 
 - Installed, and enabled: 20
-- Installed, but disabled: 4
+- Installed, but disabled: 7
 - Reconfigured defaults: 3
 
 See below all added plugins.
