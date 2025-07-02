@@ -69,7 +69,7 @@ Enjoy!
 ### [Loot filters](https://runelite.net/plugin-hub/show/loot-filters) ![loot-filters_CUTszjGAsUs9cn5uukPsi0fnTPfwyylIpLdRGvqA0Lc](https://github.com/user-attachments/assets/5ed3a862-adb1-4eaa-a191-def4d4781fa7)
 
 - Highlights items based on their value
-- How to customize: Press ALT and left/right click dropped loot to hide/highlight it
+- <ins>How to use</ins>: Press ALT and left/right click dropped loot to hide/highlight it
 - Better than "Ground Items" plugin
 
 ### [Random World Hopper](https://runelite.net/plugin-hub/show/random-hopper) ![random-hopper_5errPD_5JwvBWBp9PIBoB_pl9SfQzz9GyWSNA1NPWFo](https://github.com/user-attachments/assets/f2f8424b-f572-49f1-9a0d-06cf62d95b92)
@@ -160,12 +160,13 @@ Enjoy!
 
 These plugins are INSTALLED but NOT enabled. 
 
-You can ENABLE them if you like them.
+You can ENABLE them if you like (in the top right wrench menu, first tab)
+
+WIP: ADD PIC ON HOW TO ENABLE
 
 ### [Picture in Picture](https://runelite.net/plugin-hub/show/picture-in-picture) (disabled by default) ![picture-in-picture_WHf8fHOfsO6sKbHESiXZz34QWZ67OPxr8T6V0pmtmUQ](https://github.com/user-attachments/assets/de643c6c-566c-457c-bb49-297c26e2d1b5)
 
 - Enable this if you want to see a mini-window while you do something else (CANNOT click on window, only visual)
-- How To Enable: Enable in plugin wrench menu
 - <ins>How to use</ins>: Use Shift+Drag to move around, can also resize it
 
 ### [Emote Clue Items](https://runelite.net/plugin-hub/show/emote-clue-items) (disabled by default) ![emote-clue-items_05K3G97PcDdsYx57-bnzzO18gZn2Vqb0C7_6diKVF90](https://github.com/user-attachments/assets/dfb3aaa2-f85d-462e-b467-d94c55499279)
