@@ -3,12 +3,14 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 <ins>Note: ALL plugins you can get from the official Runelite plugin hub, this is just a guide</ins>.
 
-# How to install the profile (WIP, not yet available, just manually install below plugins for now)
+# How to install the profile 
+
+<ins>WIP - Profile not yet available, just manually install below plugins for now</ins>
 1. Install the official Runelite client
 2. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
 4. Create a new plugin profile
-5. Download the profile configuration from this page (WIP for now)
+5. Download the profile configuration from this page <ins>(not available yet, just install manually)</ins>
 6. Click "Import" on that profile, provide the text file profile
 7. Click the arrow to the right of the profile to enable it
 
