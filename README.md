@@ -243,3 +243,10 @@ Enable these if you are a streamer
 - Enable this if you want to hide all players near you
 - Disable it if you want to see players again
 
+---
+
+# PvP plugins
+
+Enable these if you want help in pvp
+
+WIP: add oda setup
