@@ -200,5 +200,14 @@ Enable these if you are a streamer
 
 ### [World Hider](https://runelite.net/plugin-hub/show/world-hider) (disabled by default)
 
+- Hides your world number from chat and world menu so you don't have to hide screen
+
 ### [Annoyance Mute](https://runelite.net/plugin-hub/show/annoyance-mute) (disabled by default)
+
+- Mutes annoying sounds that other players can troll you with
+
+### [Entity Hider](https://github.com/runelite/runelite/wiki/Entity-Hider) (disabled by default)
+
+- Enable this if you want to hide all players near you
+- Disable it if you want to see players again
 
