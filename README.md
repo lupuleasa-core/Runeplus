@@ -14,8 +14,6 @@ A Runelite profile that is full of high quality plugins that "should be default 
 
 Hopefully it saves a lot of time for new and returning players.
 
-*All credits go to the Runelite team, Jagex and the great osrs plugin community!*
-
 Enjoy!
 
 
