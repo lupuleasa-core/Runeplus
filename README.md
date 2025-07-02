@@ -203,7 +203,9 @@ Auto-enabled in 🟠 Runeplus **PLUS** profile.
 - More features than "Ground Items" plugin
 - Disable "Ground Items" plugin
 
-### [Wasted Bank Space] (disabled by default) ![image](https://github.com/user-attachments/assets/5becba6a-d10a-4c1f-aa74-4b9bdb275a3b)
+### [Wasted Bank Space](https://runelite.net/plugin-hub/show/wasted-bank-space) (disabled by default) 
+
+![image](https://github.com/user-attachments/assets/5becba6a-d10a-4c1f-aa74-4b9bdb275a3b)
 
 - Enable this if you are running out of bank space.
 
