@@ -319,6 +319,4 @@ Enable these if you are a streamer
 - Installed, but disabled: 12
 - Reconfigured defaults: 5
 
-See below all added plugins.
-
 *Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
