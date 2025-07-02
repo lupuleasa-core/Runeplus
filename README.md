@@ -18,8 +18,8 @@ See below all added plugins.
 2. Click top right wrench icon to see plugins
 3. Click the middle tab called "Profiles"
 4. Create a new plugin profile
-5. Download the profile configuration from this page
-6. Click "Import" on that profile, provide the text file
+5. Download the profile configuration from this page (WIP for now)
+6. Click "Import" on that profile, provide the text file profile
 7. Click the arrow to the right of the profile to enable it
 
 Hopefully it saves a lot of time for new and returning players.
