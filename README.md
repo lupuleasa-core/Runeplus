@@ -307,6 +307,10 @@ Auto enabled in ⚫ Runeplus **PVP** and 🟠 Runeplus **PLUS** profile.
 
 - Displays the attack range of your currently equipped weapon
 
+### [Large Logout Button](https://runelite.net/plugin-hub/show/large-logout) (disabled by default) ![large-logout_Xqg7J4T4tS4PSecpWpmOlKRUscH-Cs9qIe-TWKKJnZA](https://github.com/user-attachments/assets/905802b2-ccaa-4d3e-a390-94c00f86842b)
+
+- Makes logout button extra large
+
 ### [Wilderness Multi Lines](https://runelite.net/plugin-hub/show/wilderness-multi-lines) (enabled)
 
 - Shows the lines where wilderness begins, and also where multi player combat begins
@@ -354,7 +358,7 @@ Auto enabled in 🟣 Runeplus **Streamer mode** and 🟠 Runeplus **PLUS** profi
 ### Total plugins added:
 
 - Installed, and enabled: 25
-- Installed, but disabled: 12
+- Installed, but disabled: 13
 - Reconfigured defaults: 5
 
 *Tip: Use Ctrl+F search for "<ins>How to use</ins>" for a tutorial on how to utilize all installed plugins.*
