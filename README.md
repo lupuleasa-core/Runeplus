@@ -234,9 +234,7 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 
 # Included INACTIVE plugins:
 
-These plugins are optional and disabled by default.
-
-Auto-enabled in 🟠 Runeplus **PLUS** profile.
+These plugins are disabled by default (auto-enabled in 🟠 Runeplus **PLUS**)
 
 <ins>How to use</ins>: If you like any of them you must enable them yourself
 
