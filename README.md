@@ -11,6 +11,8 @@ Preconfigured Runelite profiles that are full of high quality plugins that "shou
 
 ## 🔴 Runelite will do the downloading of plugins from pluginhub
 
+![image](https://github.com/user-attachments/assets/20826dbd-920c-447c-995e-11aa5cafeea8)
+
 
 # How to create the Runeplus profile for yourself
 
