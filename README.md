@@ -111,6 +111,12 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - <ins>How to use</ins>: Right click on map (not minimap), and click find Path
 - Includes agility shortcuts and teleports you have
 
+### [World map runes](https://runelite.net/plugin-hub/show/world-map-runes) ![world-map-runes_upmzNG3JIHL13RZ9-pehzhYYRJ-hmnlzKmEgFSRX2eo](https://github.com/user-attachments/assets/e4095bf3-641b-42a3-809e-e0f9923cfad5)
+
+![image](https://github.com/user-attachments/assets/9287c2c3-b727-4a31-9fa1-63b078daf26a)
+
+- Shows tooltip on runes required for a teleport
+
 ### [Teleport Maps](https://runelite.net/plugin-hub/show/spirit-tree-map) 
 
 ![image](https://github.com/user-attachments/assets/7dfc1d15-9bb0-4fac-b1b2-36af55442d72)
