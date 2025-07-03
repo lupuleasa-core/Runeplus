@@ -16,7 +16,7 @@ Preconfigured Runelite profiles that are full of high quality plugins that "shou
 
 ### Method 1: Manual
 
-Download and configure all the plugins below from official Runelite Plugin Hub
+Download and configure yourself all the plugins below from official Runelite Plugin Hub
 
 ### Method 2: Automatic via importing the Runelite Profiles I made
 
