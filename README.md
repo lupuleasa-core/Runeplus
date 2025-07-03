@@ -9,7 +9,7 @@ Preconfigured Runelite profiles that are full of high quality plugins that "shou
 
 ## 🔴 THIS IS A RUNELITE PROFILE
 
-## 🔴 Runelite will do the downloading of plugins from pluginhub
+## 🔴 Runelite will do the downloading of plugins from the official pluginhub
 
 ![image](https://github.com/user-attachments/assets/20826dbd-920c-447c-995e-11aa5cafeea8)
 
@@ -18,7 +18,7 @@ Preconfigured Runelite profiles that are full of high quality plugins that "shou
 
 ### Method 1: Manual
 
-Download and configure yourself all the plugins below from official Runelite Plugin Hub
+Download and configure yourself all the plugins below from the official Runelite Plugin Hub
 
 ### Method 2: Automatic via importing the Runelite Profiles I made
 
