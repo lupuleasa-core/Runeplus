@@ -1,11 +1,25 @@
-# Runeplus - Runelite Profiles [v1.1] 
-A Runelite profile that is full of high quality plugins that "should be default in Runelite"
+# Runeplus - Preconfigured Runelite Profiles [v1.1] 
+Preconfigured Runelite profiles that are full of high quality plugins that "should be default in Runelite"
 
-🔴 Note: ALL plugins mentioned here are on the official Runelite plugin hub, this is just a guide
+🔴 Note: ALL plugins mentioned here are on the official Runelite plugin hub, this is not a plugin 
 
 🔴 DO NOT install plugins from anywhere else APART FROM the official Runelite client wrench icon
 
 ![image](https://github.com/user-attachments/assets/f30c97e7-a32b-469b-8bf2-ade1b478d442)
+
+
+# How to create the Runeplus profile for yourself
+
+### Method 1: Manual
+
+Download and configure all the plugins below from official Runelite Plugin Hub
+
+### Method 2: Automatic via importing the Runelite Profiles I made
+
+This is a faster way for people that want to save a lot of time.
+
+*Note: Some people consider this unsafe, so use your own judgement* 
+
 
 
 # Available plugin profile packs
