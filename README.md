@@ -18,6 +18,8 @@ Download and configure all the plugins below from official Runelite Plugin Hub
 
 This is a faster way for people that want to save a lot of time.
 
+I did all the operations below manually myself, and saved it in a Runelite .properties file.
+
 *Note: Some people consider this unsafe, so use your own judgement* 
 
 
