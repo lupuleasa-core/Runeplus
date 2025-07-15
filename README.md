@@ -167,6 +167,10 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 
 - Shows maxhits gained on weapons, spells, and potions
 
+### [Attack Timer](https://runelite.net/plugin-hub/show/attacktimer) <img width="48" height="72" alt="attacktimer_wHg56BxiVB4AkN1FplpCwk-BTsB4VnuF4-Int5uXG6E-1" src="https://github.com/user-attachments/assets/eb6f37f4-4c74-4fe0-ac87-45013f878e29" />
+
+- Shows swing timer server tick metronome for your attacks
+
 ### [Equipment Inspector](https://runelite.net/plugin-hub/show/equipment-inspector) ![equipment-inspector_LVSwC91eWPATmsH3bJvB8sgqbNnLmuEnIHXBd1Ncgxg](https://github.com/user-attachments/assets/c4a546aa-a23b-409c-94ea-af104f94e1c3)
 
 - See what other players are wearing
