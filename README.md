@@ -209,6 +209,11 @@ Enabled by default in 🔵 Runeplus **Standard** profiles and higher.
 - Makes many objects and NPCs have their most useful action on Left click as default (instead of having to use the Right-Click menu)
 - <ins>How to use</ins>: To configure defaults, Shift+Right-Click on anything to change the default left click action
 
+### [Custom Menu Swaps](https://runelite.net/plugin-hub/show/hotkeyable-menu-swaps)
+
+- Allows hotkeys for many more actions including bank amount hotkeys
+- <ins>How to use</ins>: In the bank press 1,2,3,4,etc keys
+
 ### [Skill progress bar](https://runelite.net/plugin-hub/show/skills-tab-progress-bars) ![skills-tab-progress-bars_CqJNZGiRrtuPumLtkaQJPZRQQTsAlY_YPqiRNKiZL84](https://github.com/user-attachments/assets/13cbec8c-5527-41f1-937a-358718330316)
 
 - Shows a bar for each skill in the skill menu
